@@ -1,0 +1,7 @@
+DELETE http://localhost:3001/api/users/:id
+
+{
+        "id": "5f078b03ae127b1403506391"
+ }
+
+
